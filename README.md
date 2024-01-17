@@ -15,9 +15,8 @@ Anterior and Posterior.
 pip install -r requirements.txt
 ```
 3. Download the pretrained weight file from https://drive.google.com/file/d/1qMUqc9sfOt7a9o7Au0_Rnw054qXcdnpM/view?usp=sharing
-4. Move the weight into ./weights folder
 
-5. Run the inference code
+4. Run the inference code
 
 Example:
 
@@ -25,9 +24,17 @@ Example:
 python main.py --model_path ./weights/fhrnet.pt --data_dir ./source --output_dir ./outputs
 ```
 
---model_path The path of the pretrained model
+Parameters:
 
---data_dir The folder contains VFSS Images
+--model_path 
 
---output_dir The results folder
+The path of the pretrained model.
+
+--data_dir 
+
+The folder contains input VFSS Images.
+
+--output_dir 
+
+The folder where the results will be saved.
 
