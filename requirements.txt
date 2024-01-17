@@ -1,0 +1,7 @@
+torch
+torchvision
+opencv-python
+yacs
+logging
+numpy
+argparse
