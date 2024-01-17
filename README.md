@@ -14,9 +14,10 @@ Anterior and Posterior.
 ```commandline
 pip install -r requirements.txt
 ```
-3. Download the pretrained model file and move into ./weights folder
+3. Download the pretrained weight file from https://drive.google.com/file/d/1qMUqc9sfOt7a9o7Au0_Rnw054qXcdnpM/view?usp=sharing
+4. Move the weight into ./weights folder
 
-3. Run the inference code
+5. Run the inference code
 
 Example:
 
