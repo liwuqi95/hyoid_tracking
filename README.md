@@ -7,7 +7,7 @@ Studies using Deep Learning. [Paper](https://link.springer.com/article/10.1007/s
 This repo contains the inference code of the automatic localization of Inferior Posterior of C2 and C4, and Hyoid Bone
 Anterior and Posterior. 
 
-![alt text]('https://github.com/liwuqi95/hyoid_tracking/tree/main/static/VFSS_Image.png')
+![alt text](https://github.com/liwuqi95/hyoid_tracking/blob/main/static/VFSS_Image.png)
 
 ## How to Use
 
