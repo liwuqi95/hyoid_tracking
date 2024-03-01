@@ -41,6 +41,9 @@ The folder contains input VFSS Images.
 
 The folder where the results will be saved.
 
+## Contact
+wuqi.li@mail.utoronto.ca
+
 ## Citation
 
 If you find this repository useful please give it a star 🌟 or consider citing our work:
